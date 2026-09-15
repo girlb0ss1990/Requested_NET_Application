@@ -23,4 +23,4 @@ dotnet test
 
 Full step-by-step build log with screenshots (including testing):
 
-[`docs/STEP_BY_STEP.md`](docs/STEP_BY_STEP.md)
+https://github.com/girlb0ss1990/Requested_NET_Application/commit/1a28c3c8d6d18baa2e7bff023546629dd6610328
